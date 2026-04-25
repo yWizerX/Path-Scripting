@@ -58,4 +58,4 @@ node src/cli.js examples/hello.ps --run
 
 ---
 
-Feito com ❤️ pela Path Scripting Foundation.
+Obrigado!
